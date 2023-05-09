@@ -28,7 +28,7 @@
     "datatables.net": "^1.10.20",
     "datatables.net-dt": "^1.10.20",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-pagination": "^5.0.0",
     "popper": "^1.0.1",
     "rxjs": "~6.4.0",
